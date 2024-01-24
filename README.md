@@ -21,5 +21,5 @@ esphome:
   friendly_name: "Bedroom Fan"
 
 packages:
-    ifan04: github://gagebenne/esphome/packages/ifan04.yaml # !include ifan04.yaml (locally)
+    ifan04: github://ecam315/ifan04/packages/ifan04.yaml # !include ifan04.yaml (locally)
 ```
